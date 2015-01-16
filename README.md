@@ -1,2 +1,2 @@
 # Farming-Simulator-15
-Mods for FS15 Server
+This contains Mods For FS15

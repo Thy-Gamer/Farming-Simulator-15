@@ -15,6 +15,12 @@ http://fs-uk.com/mods/view/35327
 
 http://www.modhoster.de/mods/choppedstraw--2
 
+http://fs-uk.com/download/hosted/35683/Jenz_Crusher_Titan_V1/zip
+
+http://fs-uk.com/download/hosted/35339/MANTGSMobilhackerv2/zip
+
+http://fs-uk.com/download/hosted/35742/Westbridge_Forest_V3/zip
+
 All Mods Need To Be Unzipped
 And Moved To Farming Simnulator 2015 Mods
 

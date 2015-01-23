@@ -23,7 +23,7 @@ Changes As Of 18/01/15
 
 10) http://fs-uk.com/download/hosted/35742/Westbridge_Forest_V3/zip
 
- MODS (5,7) DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE
+ MODS (5,7,10) DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE
 
 All Mods Need To Be Unzipped
 And Moved To Farming Simnulator 2015 Mods

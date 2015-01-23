@@ -9,11 +9,11 @@ http://fs-uk.com/mods/view/35501/claas-lexion-550-560tt
 
 http://fs-uk.com/mods/view/35356/kuhn-primor-3570-blower-feeder-v1-2
 
-http://fs-uk.com/mods/view/35674/knuston-farm-for-2015 *
+http://fs-uk.com/mods/view/35674/knuston-farm-for-2015 #~
 
 http://fs-uk.com/mods/view/35327
 
-http://www.modhoster.de/mods/choppedstraw--2 *
+http://www.modhoster.de/mods/choppedstraw--2 #~
 
 Changes As Of 18/01/15
 
@@ -23,7 +23,7 @@ http://fs-uk.com/download/hosted/35339/MANTGSMobilhackerv2/zip
 
 http://fs-uk.com/download/hosted/35742/Westbridge_Forest_V3/zip
 
-* MODS DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE
+#~ MODS DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE
 
 All Mods Need To Be Unzipped
 And Moved To Farming Simnulator 2015 Mods

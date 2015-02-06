@@ -23,7 +23,13 @@ Changes As Of 18/01/15
 
 10) http://fs-uk.com/download/hosted/35742/Westbridge_Forest_V3/zip
 
- MODS (5,7,10) DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE
+ Changes As Of 06/02/15
+ 
+ Needed mods to make everything work.
+11)http://www.modhoster.com/mods/addfilltypes--2 Adds fill types to all trailers.
+12)http://marhu.net/phpBB3/viewtopic.php?f=141&t=1058#p5590 Manure, Slurry and lime mod, must be in mods folder to work on map
+13)http://marhu.net/phpBB3/viewtopic.php?f=137&t=1422 For selling pigs and beef
+14)http://www.modhub.us/farming-simulator-2015-mods/garant-kotte-slurrytanker-v1-1/ Slurry Tanker for selling slurry.MODS (5,7,10) DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE
 
 All Mods Need To Be Unzipped
 And Moved To Farming Simnulator 2015 Mods

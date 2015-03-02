@@ -17,9 +17,9 @@ This contains Mods For FS15
 
 Changes As Of 18/01/15
 
-8) http://fs-uk.com/download/hosted/35683/Jenz_Crusher_Titan_V1/zip
+8) http://fs-uk.com/download/hosted/35683/Jenz_Crusher_Titan_V1/zip *
 
-9) http://fs-uk.com/download/hosted/35339/MANTGSMobilhackerv2/zip
+9) http://fs-uk.com/download/hosted/35339/MANTGSMobilhackerv2/zip *
 
 10) http://fs-uk.com/download/hosted/35742/Westbridge_Forest_V3/zip
 
@@ -32,6 +32,8 @@ Changes As Of 18/01/15
 14)http://www.modhub.us/farming-simulator-2015-mods/garant-kotte-slurrytanker-v1-1/ Slurry Tanker for selling slurry.
 
 MODS (5,7,10) DO NOT WORK BUT STILL DOWNLOAD THEM PLEASE!
+
+MODS WITH * NEEDED FOR JOSH'S SERVER (8 + 9)
 
 All Mods Need To Be Unzipped
 And Moved To Farming Simnulator 2015 Mods

@@ -37,5 +37,6 @@ MODS WITH * NEEDED FOR JOSH'S SERVER (8 + 9)
 
 All Mods Need To Be Unzipped
 And Moved To Farming Simnulator 2015 Mods
-
+http://fs-uk.com/download/hosted/35685/handyMan/zip
+http://fs-uk.com/download/hosted/35982/FS15_MANTGS18_440/zip
 
